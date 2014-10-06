@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/radiosilence/mort/issues"
   },
-  "homepage": "https://github.com/radiosilence/mort"
+  "homepage": "https://github.com/radiosilence/mort",
+  "dependencies": {
+    "mori": "^0.2.9"
+  }
 }
