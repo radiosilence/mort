@@ -1,6 +1,6 @@
 "use strict";
 
-var _ = mori;
+var _ = require('mori');
 
 function Mort(data, config) {
   this.data = data;
@@ -82,3 +82,5 @@ Mort.prototype.setNotifyFn = function(f) {
 Mort.prototype.notify = function() {
   this.state.notifyFn();
 };
+
+module.exports = Mort;

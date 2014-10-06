@@ -1,0 +1,22 @@
+{
+  "name": "mort",
+  "version": "0.0.1",
+  "homepage": "https://github.com/radiosilence/mort",
+  "authors": [
+    "James Cleveland <jc@blit.cc>"
+  ],
+  "description": "Immutable datastore",
+  "main": "src/mort.js",
+  "keywords": [
+    "immutable",
+    "mori"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
