@@ -1,0 +1,19 @@
+{
+  "name": "mort",
+  "version": "0.0.1",
+  "description": "Immutable datastore that relies on Mori.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radiosilence/mort.git"
+  },
+  "author": "James Cleveland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radiosilence/mort/issues"
+  },
+  "homepage": "https://github.com/radiosilence/mort"
+}
