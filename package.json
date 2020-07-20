@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/radiosilence/mort",
   "dependencies": {
-    "mori": "^0.2.9"
+    "mori": "^0.3.2"
   }
 }
